@@ -1,3 +1,3 @@
 # gym-website
 
-(screenshot.png)
+![alt text](screenshots/screenshot.jpg "Description goes here")
